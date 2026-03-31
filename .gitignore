@@ -1,0 +1,16 @@
+# environments
+venv/
+.venv/
+
+# ignore data + models completely
+data/
+models/
+
+# large files
+*.npy
+*.csv
+*.pkl
+
+# python cache
+__pycache__/
+.ipynb_checkpoints/
