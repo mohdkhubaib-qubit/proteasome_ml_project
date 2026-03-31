@@ -90,5 +90,5 @@ Due to GitHub file size limitations, raw datasets and trained models are not inc
 
 ## Author
 
-Khubi
+Mohd Khubaib
 Master’s Research Project — Immunoinformatics / Machine Learning
